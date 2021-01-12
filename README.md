@@ -1,4 +1,5 @@
-***about the project***
+# ***About the project***
+
 The project represents an implementation of directed weighted graph with different methods and algorithms in python language.
 an implementation of Dijkstra's algorithm  to find the shortest path between two vertices and BFS algorithm for to find Strongly Connected Components
 and print the graph using plotlibrary.
@@ -11,7 +12,9 @@ ConnectedComponents- Finds the Strongly Connected Components(SCC) of the graph.
 shortestPath- return the distnace from source node to dest node and the list that represents the path.
 
 
-- [ ] ***2.Algorithms:*** Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm, SPF algorithm) is an algorithm for finding the shortest paths between nodes in a graph.
+- [ ] ***Algorithms:*** 
+
+Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm, SPF algorithm) is an algorithm for finding the shortest paths between nodes in a graph.
 Analysis for dijkstra's: a.Mark all nodes unvisited. Create a set of all the unvisited nodes called the unvisited set.
 b.Assign to every node a tentative distance value: set it to zero for our initial node and to infinity for all other nodes. Set the initial node as current.
 c.For the current node, consider all of its unvisited neighbours and calculate their tentative distances through the current node. Compare the newly calculated tentative distance to the current assigned value and assign the smaller one
