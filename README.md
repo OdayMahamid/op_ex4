@@ -1,4 +1,5 @@
-The project represents an implementation of directed weighted graph with different methods and algorithms in python language.,
+***about the project***
+The project represents an implementation of directed weighted graph with different methods and algorithms in python language.
 an implementation of Dijkstra's algorithm  to find the shortest path between two vertices and BFS algorithm for to find Strongly Connected Components
 and print the graph using plotlibrary.
 
