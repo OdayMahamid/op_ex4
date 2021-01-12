@@ -6,9 +6,13 @@ and print the graph using plotlibrary.
 
 
 save- save the graph to the given file name using json method.
+
 load- load a graph from the given file name to to a graph.
+
 getGraph- returns the graph on which we operate the algorithms
+
 ConnectedComponents- Finds the Strongly Connected Components(SCC) of the graph.
+
 shortestPath- return the distnace from source node to dest node and the list that represents the path.
 
 
