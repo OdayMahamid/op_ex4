@@ -12,7 +12,7 @@ ConnectedComponents- Finds the Strongly Connected Components(SCC) of the graph.
 shortestPath- return the distnace from source node to dest node and the list that represents the path.
 
 
-- [ ] ***Algorithms:*** 
+# ***Algorithms:*** 
 
 Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm, SPF algorithm) is an algorithm for finding the shortest paths between nodes in a graph.
 Analysis for dijkstra's: a.Mark all nodes unvisited. Create a set of all the unvisited nodes called the unvisited set.
